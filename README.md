@@ -1,0 +1,1 @@
+This is my first official portfolio project as a Junior front End Developer. The project consists of the primary front end languages which include html, css and javascript. It is a Weather App that displays the hourly forecast. You just navigate to the search bar and type in whatever location you want to querry from, and your desired information will the returened.
